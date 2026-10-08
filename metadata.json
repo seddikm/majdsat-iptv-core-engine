@@ -1,0 +1,6 @@
+{
+  "name": "MajdSat IPTV Core Engine",
+  "description": "Cross-platform IPTV engine and client for Samsung Tizen OS, Android, and Web with native MAC authentication, device polling, and unified AVPlay/HLS player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
